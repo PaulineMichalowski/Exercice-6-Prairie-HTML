@@ -1,0 +1,55 @@
+#conteneur
+{
+  display: flex;
+  flex-wrap: wrap;
+}
+.element1 {
+  background-color: rgb(50,200,110);
+  min-width: 70%;
+  min-height: 30px;
+}
+.element2 {
+  background-color: rgb(41, 128, 185);
+  min-width: 30%;
+  min-height: 30px;
+}
+.element3 {
+  background-color: rgb(231, 76, 60);
+  min-width: 30%;
+  min-height: 45px;
+}
+.element4 {
+  background-color: rgb(230, 126, 34);
+  min-width: 30%;
+  min-height: 45px;
+}
+.element5 {
+  background-color: rgb(149, 165, 166);
+  min-width: 40%;
+  min-height: 45px
+}
+.element6 {
+  background: rgb(231, 76, 60);
+  min-width: 30%;
+  min-height: 45px;
+}
+.element7 {
+  background-color: rgb(243, 156, 18);
+  min-width: 20%;
+  min-height: 45px;
+}
+.element8 {
+  background-color: rgb(22, 160, 133);
+  min-width: 20%;
+  min-height: 45px;
+}
+.element9 {
+  background-color: rgb(211, 84, 0);
+  min-width: 30%;
+  min-height: 45px;
+}
+.element10 {
+  background-color: rgb(44, 62, 80);
+  min-width: 100%;
+  min-height: 140px
+}

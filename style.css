@@ -1,55 +1,42 @@
-#conteneur
-{
-  display: flex;
-  flex-wrap: wrap;
+div{
+  height:50px;
+  float: left;
 }
-.element1 {
-  background-color: rgb(50,200,110);
-  min-width: 70%;
-  min-height: 30px;
-}
-.element2 {
-  background-color: rgb(41, 128, 185);
-  min-width: 30%;
-  min-height: 30px;
-}
-.element3 {
-  background-color: rgb(231, 76, 60);
-  min-width: 30%;
-  min-height: 45px;
-}
-.element4 {
-  background-color: rgb(230, 126, 34);
-  min-width: 30%;
-  min-height: 45px;
-}
-.element5 {
-  background-color: rgb(149, 165, 166);
-  min-width: 40%;
-  min-height: 45px
-}
-.element6 {
-  background: rgb(231, 76, 60);
-  min-width: 30%;
-  min-height: 45px;
-}
-.element7 {
-  background-color: rgb(243, 156, 18);
-  min-width: 20%;
-  min-height: 45px;
-}
-.element8 {
-  background-color: rgb(22, 160, 133);
-  min-width: 20%;
-  min-height: 45px;
-}
-.element9 {
-  background-color: rgb(211, 84, 0);
-  min-width: 30%;
-  min-height: 45px;
-}
-.element10 {
-  background-color: rgb(44, 62, 80);
-  min-width: 100%;
-  min-height: 140px
-}
+#block1{
+  background-color: #2ECC71;
+  width:75%;
+  }
+#block2{
+  background-color: #2980B9;
+  width:25%;
+  }
+#block3{
+  background-color: #E74C3C;
+  width:34%;
+  height:100px;
+  }
+#block4{
+  background-color: #E67E22;
+  width:33%;
+  }
+#block5{
+  background-color: #95A5A6;
+  width:33%;
+  }
+#block6{
+  background-color: #F39C12;
+  width:22%;
+  }
+#block7{
+  background-color: #16A085;
+  width:22%;
+  }
+#block8{
+  background-color: #D35400;
+  width:22%;
+  }
+#block9{
+  background-color: #2C3E50;
+  width:100%;
+  height: 200px;
+  }
